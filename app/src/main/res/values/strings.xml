@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UsersSharePrefereces</string>
+    <string name="description_user_photo">Imagen del usuario</string>
+    <string name="sp_first_time">first_time</string>
+    <string name="dialog_title">Registro de usuario</string>
+    <string name="dialog_confirm">Registrar</string>
+    <string name="helper_Username">Obligatorio</string>
+    <string name="hint_userName">Nombre de usuario</string>
+    <string name="sp_userName">userName</string>
+    <string name="register_success">Usuario registrado</string>
+</resources>
